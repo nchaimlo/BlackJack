@@ -1,0 +1,26 @@
+{
+  "files": {
+    "cards.h": [
+      {
+        "id": "417fc71a-4630-4d25-bf1e-a8b8ad539d18",
+        "line": 6,
+        "version": 689,
+        "index": 92
+      }
+    ],
+    "main.c": [
+      {
+        "id": "cbf805d3-1ee3-4e8b-bf63-0ada537d3b13",
+        "line": 95,
+        "version": 5758,
+        "index": 2244
+      },
+      {
+        "id": "41b3471b-47b7-4a11-8767-bf7601288f64",
+        "line": 197,
+        "version": 5758,
+        "index": 5083
+      }
+    ]
+  }
+}
